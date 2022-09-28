@@ -1,2 +1,1 @@
-My name is David
- 
+Affiliate at ALX
